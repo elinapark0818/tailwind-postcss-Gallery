@@ -4,12 +4,15 @@ import Props from "./components/props";
 
 function App() {
   const ramen = [
-    "까르보불닭",
+    "까르보불닭볶음면",
     "진순이",
     "너구리",
     "짜파게티",
     "간짬뽕",
     "신라면",
+    "틈새라면",
+    "치즈볶이",
+    "열라면",
   ];
 
   const getRandomIndex = (length) => {
